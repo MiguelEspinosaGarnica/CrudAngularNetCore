@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Toyota",
+    "Model": "Corolla",
+    "SeatsNumber": 4,
+    "Price": "1500",
+    "Year": 2019,
+    "Color": "Red",
+    "CylinderCapacity": 2200
+  },
+  {
+    "Id": 2,
+    "Brand": "Ford",
+    "Model": "Focus",
+    "SeatsNumber": 5,
+    "Price": "1600",
+    "Year": 2020,
+    "Color": "Azul",
+    "CylinderCapacity": 1800
+  },
+  {
+    "Id": 3,
+    "Brand": "Chevrolet",
+    "Model": "Malibu",
+    "SeatsNumber": 5,
+    "Price": "1700",
+    "Year": 2019,
+    "Color": "Verde",
+    "CylinderCapacity": 2000
+  },
+  {
+    "Id": 4,
+    "Brand": "Honda",
+    "Model": "Civic",
+    "SeatsNumber": 4,
+    "Price": "1550",
+    "Year": 2021,
+    "Color": "Negro",
+    "CylinderCapacity": 2400
+  },
+  {
+    "Id": 5,
+    "Brand": "Nissan",
+    "Model": "Altima",
+    "SeatsNumber": 5,
+    "Price": "1650",
+    "Year": 2022,
+    "Color": "Blanco",
+    "CylinderCapacity": 2500
+  },
+  {
+    "Id": 6,
+    "Brand": "Toyota",
+    "Model": "Camry",
+    "SeatsNumber": 5,
+    "Price": "1400",
+    "Year": 2018,
+    "Color": "Rojo",
+    "CylinderCapacity": 2600
+  },
+  {
+    "Id": 7,
+    "Brand": "Ford",
+    "Model": "Mustang",
+    "SeatsNumber": 2,
+    "Price": "2500",
+    "Year": 2020,
+    "Color": "Azul",
+    "CylinderCapacity": 3000
+  },
+  {
+    "Id": 8,
+    "Brand": "Chevrolet",
+    "Model": "Cruze",
+    "SeatsNumber": 4,
+    "Price": "1400",
+    "Year": 2021,
+    "Color": "Verde",
+    "CylinderCapacity": 1800
+  },
+  {
+    "Id": 9,
+    "Brand": "Honda",
+    "Model": "Accord",
+    "SeatsNumber": 5,
+    "Price": "1750",
+    "Year": 2019,
+    "Color": "Negro",
+    "CylinderCapacity": 2400
+  },
+  {
+    "Id": 10,
+    "Brand": "Nissan",
+    "Model": "Sentra",
+    "SeatsNumber": 5,
+    "Price": "1500",
+    "Year": 2022,
+    "Color": "Blanco",
+    "CylinderCapacity": 2000
+  },
+  {
+    "Id": 11,
+    "Brand": "Toyota",
+    "Model": "RAV4",
+    "SeatsNumber": 5,
+    "Price": "2200",
+    "Year": 2020,
+    "Color": "Rojo",
+    "CylinderCapacity": 2500
+  },
+  {
+    "Id": 12,
+    "Brand": "Ford",
+    "Model": "Explorer",
+    "SeatsNumber": 7,
+    "Price": "3000",
+    "Year": 2021,
+    "Color": "Azul",
+    "CylinderCapacity": 3500
+  },
+  {
+    "Id": 13,
+    "Brand": "Chevrolet",
+    "Model": "Equinox",
+    "SeatsNumber": 5,
+    "Price": "2000",
+    "Year": 2018,
+    "Color": "Verde",
+    "CylinderCapacity": 2400
+  },
+  {
+    "Id": 14,
+    "Brand": "Honda",
+    "Model": "HR-V",
+    "SeatsNumber": 5,
+    "Price": "1850",
+    "Year": 2021,
+    "Color": "Negro",
+    "CylinderCapacity": 1800
+  }
+]

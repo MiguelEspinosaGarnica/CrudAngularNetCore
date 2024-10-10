@@ -1,0 +1,24 @@
+
+.form-container {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+mat-form-field {
+  margin-bottom: 6px;
+  width: 100%;
+  height: 70px;
+}
+
+.save-button {
+  margin-right: 8px;
+}
+
+.title-container, .button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+

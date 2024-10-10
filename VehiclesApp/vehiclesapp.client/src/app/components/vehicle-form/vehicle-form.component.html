@@ -1,0 +1,64 @@
+<form [formGroup]="vehicleForm" (ngSubmit)="save()" class="form-container">
+  <div class="title-container">
+    <h2 class="modal-title">
+      Vehicle form
+    </h2>
+  </div>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Brand</mat-label>
+    <mat-select formControlName="brand">
+      <mat-option *ngFor="let brand of brands" [value]="brand">{{
+        brand
+      }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Model</mat-label>
+    <input matInput formControlName="model" placeholder="Ingresa el modelo" />
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Manufacture year</mat-label>
+    <mat-select formControlName="year">
+      <mat-option *ngFor="let year of years" [value]="year">{{
+        year
+      }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Color</mat-label>
+    <mat-select formControlName="color">
+      <mat-option *ngFor="let color of colors" [value]="color">{{
+        color
+      }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Seats number</mat-label>
+    <mat-select formControlName="seatsNumber">
+      <mat-option *ngFor="let seat of seatsNumbers" [value]="seat">{{
+        seat
+      }}</mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <mat-form-field appearance="fill">
+    <mat-label>Cylinder capacity</mat-label>
+    <input
+      matInput
+      formControlName="cylinderCapacity"
+      placeholder="Ingresa la capacidad del cilindro"
+    />
+  </mat-form-field>
+
+  <div class="button-container">
+    <button mat-raised-button color="primary" type="submit" class="save-button">
+      Save
+    </button>
+    <button mat-button (click)="cancel()">Cancel</button>
+  </div>
+</form>

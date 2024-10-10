@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|d:\\personal\\personales\\vehiclescrud\\crudangularnetcore\\vehiclesapp\\vehiclesapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|solutionrelative:vehiclesapp.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|d:\\personal\\personales\\vehiclescrud\\crudangularnetcore\\vehiclesapp\\vehiclesapp.server\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|solutionrelative:vehiclesapp.server\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|d:\\personal\\personales\\vehiclescrud\\crudangularnetcore\\vehiclesapp\\vehiclesapp.server\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|solutionrelative:vehiclesapp.server\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|d:\\personal\\personales\\vehiclescrud\\crudangularnetcore\\vehiclesapp\\vehiclesapp.server\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|solutionrelative:vehiclesapp.server\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|d:\\personal\\personales\\vehiclescrud\\crudangularnetcore\\vehiclesapp\\vehiclesapp.server\\data\\vehicles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A41D450-A726-4E3A-9466-BE85E7890BC6}|VehiclesApp.Server\\VehiclesApp.Server.csproj|solutionrelative:vehiclesapp.server\\data\\vehicles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicles.json",
+              "DocumentMoniker": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Data\\Vehicles.json",
+              "RelativeDocumentMoniker": "VehiclesApp.Server\\Data\\Vehicles.json",
+              "ToolTip": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Data\\Vehicles.json",
+              "RelativeToolTip": "VehiclesApp.Server\\Data\\Vehicles.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T04:16:06.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "VehiclesApp.Server\\Controllers\\VehicleController.cs",
+              "ToolTip": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "VehiclesApp.Server\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:51:40.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehiclesApp.Server\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Models\\Vehicle.cs",
+              "RelativeToolTip": "VehiclesApp.Server\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:50:04.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "VehiclesApp.Server\\Services\\VehicleService.cs",
+              "ToolTip": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Services\\VehicleService.cs",
+              "RelativeToolTip": "VehiclesApp.Server\\Services\\VehicleService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAgwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:48:05.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "VehiclesApp.Server\\Program.cs",
+              "ToolTip": "D:\\Personal\\Personales\\VehiclesCrud\\CrudAngularNetCore\\VehiclesApp\\VehiclesApp.Server\\Program.cs",
+              "RelativeToolTip": "VehiclesApp.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:46:20.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
