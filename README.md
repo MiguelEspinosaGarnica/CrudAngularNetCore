@@ -23,7 +23,7 @@ dotnet add package Newtonsoft.Json
 
 Pasos para ejecucion:
 
-Clonar repositorio: git clone https://github.com/usuario/nombre-repositorio.git
+Clonar repositorio: git clone https://github.com/usuario/nombre-repositorio.git](https://github.com/MiguelEspinosaGarnica/CrudAngularNetCore.git
 Acceder a la carpeta: cd nombre-repositorio
 Restaurar paquetes net core: dotnet restore
 Restaurar paquetes frontend (Aplica si se desea ejecutar el frontend por aparte): cd ClientApp --> npm install
